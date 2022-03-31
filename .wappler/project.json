@@ -31,7 +31,7 @@
       "name": "Development",
       "remoteURL": "http://localhost:3000/",
       "access": "local",
-      "localFolder": "file:///F:/swi/swinfotech%20nodejs"
+      "localFolder": ""
     }
   ],
   "activeTarget": "Development",
